@@ -1,0 +1,182 @@
+<nav id="dissertation-nav">
+	<ul>
+		<li class="active" action-type="tap.dissertation.slide">专题</li>
+		<li action-type="tap.dissertation.slide">最新</li>
+	</ul>
+</nav>
+<div class="swiper-container" id="dissertation-swiper">
+	<div class="swiper-wrapper">
+		<div class="swiper-slide">
+			<section spa-widget="scroll" class="dissertation">
+				<ul>
+					<li>
+						<img src="/webapp/images/dissertation01.png">
+					</li>
+					<li>
+						<img src="/webapp/images/dissertation02.png">
+					</li>
+					<li>
+						<img src="/webapp/images/dissertation03.png">
+					</li>
+					<li>
+						<img src="/webapp/images/dissertation04.png">
+					</li>
+				</ul>
+			</section>
+		</div>
+		<div class="swiper-slide">
+			<section spa-widget="scroll" class="newest">
+				<ul>
+					<li>
+						<div class="newest-left">
+							<img src="/webapp/images/newest-head01.png">
+						</div>
+						<div class="newest-right">
+							<div class="newest-title">
+								<div class="nt-left">
+									<p class="ntl-top">
+										流星雨
+										<span class="yo-ico">&#xe609;</span>
+									</p>
+									<p class="ntl-middle">
+										2016-04-19 15:11:25
+									</p>
+									<p class="ntl-bottom">
+										腌笃鲜
+									</p>
+								</div>
+								<div class="nt-right">
+									<button>关注</button>
+								</div>
+							</div>
+							<div class="newest-pic">
+								<img src="/webapp/images/newest-head01-pic01.png">
+							</div>
+							<div class="newest-operate">
+								<p>
+									<span class="yo-ico">&#xe621;</span>
+									1
+								</p>
+								<p>
+									<span class="yo-ico">&#xe69a;</span>
+									0
+								</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="newest-left">
+							<img src="/webapp/images/newest-head01.png">
+						</div>
+						<div class="newest-right">
+							<div class="newest-title">
+								<div class="nt-left">
+									<p class="ntl-top">
+										流星雨
+										<span class="yo-ico">&#xe609;</span>
+									</p>
+									<p class="ntl-middle">
+										2016-04-19 15:11:25
+									</p>
+									<p class="ntl-bottom">
+										腌笃鲜
+									</p>
+								</div>
+								<div class="nt-right">
+									<button>关注</button>
+								</div>
+							</div>
+							<div class="newest-pic">
+								<img src="/webapp/images/newest-head01-pic01.png">
+							</div>
+							<div class="newest-operate">
+								<p>
+									<span class="yo-ico">&#xe621;</span>
+									1
+								</p>
+								<p>
+									<span class="yo-ico">&#xe69a;</span>
+									0
+								</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="newest-left">
+							<img src="/webapp/images/newest-head01.png">
+						</div>
+						<div class="newest-right">
+							<div class="newest-title">
+								<div class="nt-left">
+									<p class="ntl-top">
+										流星雨
+										<span class="yo-ico">&#xe609;</span>
+									</p>
+									<p class="ntl-middle">
+										2016-04-19 15:11:25
+									</p>
+									<p class="ntl-bottom">
+										腌笃鲜
+									</p>
+								</div>
+								<div class="nt-right">
+									<button>关注</button>
+								</div>
+							</div>
+							<div class="newest-pic">
+								<img src="/webapp/images/newest-head01-pic01.png">
+							</div>
+							<div class="newest-operate">
+								<p>
+									<span class="yo-ico">&#xe621;</span>
+									1
+								</p>
+								<p>
+									<span class="yo-ico">&#xe69a;</span>
+									0
+								</p>
+							</div>
+						</div>
+					</li>
+					<li>
+						<div class="newest-left">
+							<img src="/webapp/images/newest-head01.png">
+						</div>
+						<div class="newest-right">
+							<div class="newest-title">
+								<div class="nt-left">
+									<p class="ntl-top">
+										流星雨
+										<span class="yo-ico">&#xe609;</span>
+									</p>
+									<p class="ntl-middle">
+										2016-04-19 15:11:25
+									</p>
+									<p class="ntl-bottom">
+										腌笃鲜
+									</p>
+								</div>
+								<div class="nt-right">
+									<button>关注</button>
+								</div>
+							</div>
+							<div class="newest-pic">
+								<img src="/webapp/images/newest-head01-pic01.png">
+							</div>
+							<div class="newest-operate">
+								<p>
+									<span class="yo-ico">&#xe621;</span>
+									1
+								</p>
+								<p>
+									<span class="yo-ico">&#xe69a;</span>
+									0
+								</p>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</section>
+		</div>
+	</div>
+</div>

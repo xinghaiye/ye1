@@ -1,0 +1,65 @@
+/*首页样式*/
+.m-index{
+	@include flexbox();
+	@include flex-direction(column);
+	width:100%;
+	height:100%;
+	header{
+		width:100%;
+		height:.44rem;
+		background: #2e2e2e;
+		font-size: .2rem;
+		color:#fff;
+		text-align: center;
+		line-height: .44rem;
+		/*@include box-sizing(border-box);
+		@include border(0 0 1px 0,#ccc);*/
+		border-bottom: 1px solid #ccc;
+		position: relative;
+		i{
+			position: absolute;
+		}
+	}
+	.m-index-container {
+		@include flex();
+		width: 100%;
+	}
+	footer{
+		z-index: 99;
+		width:100%;
+		height:.44rem;
+		@include border(1px 0 0 0, #c0bbb4);
+		background: #fff;
+		ul{
+			width:100%;
+			height:100%;
+			@include flexbox();
+			li{
+				@include flex();
+				@include flexbox();
+				@include flex-direction(column);
+				@include align-items(center);
+				@include justify-content(center);
+				&.active{
+					i,b{
+						color: #d70c1d;
+					}
+				}
+				i,b{
+					display: block;
+					color: #c4c7cb;
+					width:100%;
+					text-align: center;
+				}
+				i{
+					font-size: .18rem;
+					line-height: .2rem;
+				}
+				b{
+					font-size: .12rem;
+				}
+			}
+		}
+
+	}
+}

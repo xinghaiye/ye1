@@ -1,0 +1,27 @@
+<div class="m-index">
+	<header>
+		方太生活家
+		<i></i>
+	</header>
+	<div class="m-index-container"></div>
+	<footer>
+		<ul>
+			<li class="active">
+				<i class="yo-ico">&#xe89b;</i>
+				<b>发现</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe609;</i>
+				<b>选课</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe69e;</i>
+				<b>菜谱</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe63b;</i>
+				<b>我的</b>
+			</li>
+		</ul>
+	</footer>
+</div>

@@ -1,0 +1,18 @@
+<div class="choose" spa-widget="scroll">
+	<section>
+		<dl>
+			<dt>
+				<img src="/webapp/images/choose01.png">
+			</dt>
+			<dd>
+				<h3>5月30日 咸蛋黄肉松粽、水晶粽、鲜笋丁烧麦</h3>
+				<p class="p1">人数：12人</p>
+				<p class="p2">
+					<span class="yo-ico">&#xe636;</span>
+					中点
+					<button class="price">￥300.00</button>
+				</p>
+			</dd>
+		</dl>
+	</section>
+</div>

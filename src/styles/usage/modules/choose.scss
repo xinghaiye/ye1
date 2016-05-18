@@ -1,0 +1,56 @@
+/*choose页面样式*/
+.choose{
+	width:100%;
+	height:100%;
+	section{
+		dl{
+			margin-top: .13rem;
+			background: #fff;
+			dt{
+				img{
+					width:100%;
+				}
+			}
+			dd{
+				padding:.09rem 0 .12rem;
+				padding-left: .11rem;
+				h3{
+					font-size: .14rem;
+					color: #333;
+					font-weight: normal;
+					line-height: .34rem;
+				}
+				p{
+					font-size: .12rem;
+					color: #333;
+					&.p1{
+						line-height: .18rem;
+					}
+					&.p2{
+						position: relative;
+						line-height: .21rem;
+						span{
+							font-size: .16rem;
+							line-height: .21rem;
+							color: #333;
+							margin-right: .08rem;
+						}
+						.price{
+							position: absolute;
+							top:0;
+							right:.11rem;
+							width:.68rem;
+							height:.23rem;
+							border:0;
+							border-radius: .03rem;
+							background: #d3d3d3;
+							font-size: .12rem;
+							line-height: .23rem;
+							color: #fff;
+						}
+					}
+				}
+			}
+		}
+	}
+}
